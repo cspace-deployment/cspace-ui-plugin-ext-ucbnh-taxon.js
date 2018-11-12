@@ -182,7 +182,7 @@ export default (configContext) => {
               view: {
                 type: TermPickerInput,
                 props: {
-                  source: 'taxonomyAuthorityHabitat',
+                  source: 'habitat',
                 },
               },
             },
@@ -198,7 +198,7 @@ export default (configContext) => {
               view: {
                 type: TermPickerInput,
                 props: {
-                  source: 'taxonomyAuthorityClimateRating',
+                  source: 'climateRating',
                 },
               },
             },
