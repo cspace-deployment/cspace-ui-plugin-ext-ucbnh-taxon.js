@@ -176,7 +176,7 @@ export default (configContext) => {
               messages: defineMessages({
                 name: {
                   id: 'field.taxon_naturalhistory.habitat.name',
-                  defaultMessage: 'Habitat',
+                  defaultMessage: 'Habit',
                 },
               }),
               view: {
