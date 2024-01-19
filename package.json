@@ -1,6 +1,6 @@
 {
   "name": "cspace-ui-plugin-ext-ucbnh-taxon",
-  "version": "1.0.1-rc.1",
+  "version": "1.0.1",
   "description": "UC Berkeley Natural History Taxon extension plugin for the CollectionSpace UI",
   "author": "Ray Lee <rhlee@berkeley.edu>",
   "license": "ECL-2.0",
